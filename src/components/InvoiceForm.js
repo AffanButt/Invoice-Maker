@@ -218,6 +218,8 @@ class InvoiceForm extends React.Component {
                 <option value="$">SGD (Signapore Dollar)</option>
                 <option value="¥">CNY (Chinese Renminbi)</option>
                 <option value="₿">BTC (Bitcoin)</option>
+                <option value="PKR">Rs (Pakistani Rupees)</option>
+
               </Form.Select>
             </Form.Group>
             <Form.Group className="my-3">
